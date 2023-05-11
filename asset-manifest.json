@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.28bba352.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/about us - Edited.png": "/static/media/about us - Edited.23de408c56235120bb3d.png",
+    "static/media/Web development _Isometric.png": "/static/media/Web development _Isometric.4bba81c61f2f92b56861.png",
+    "static/media/naomi navia.png": "/static/media/naomi navia.97d64ccbfad85c1d2fa6.png",
+    "static/media/Cloud_Line.png": "/static/media/Cloud_Line.ac7032ca1364d50435fd.png",
+    "static/media/Database Security_Line.png": "/static/media/Database Security_Line.21672b8a4f5a19bfb15e.png",
+    "static/media/Web Programming_Line.png": "/static/media/Web Programming_Line.db451c5a72902f614b11.png",
+    "static/media/Progress _Monochromatic.svg": "/static/media/Progress _Monochromatic.d836902c9362c9df4321a961d3546885.svg",
+    "static/media/project-Data storage_Monochromatic.svg": "/static/media/project-Data storage_Monochromatic.6da96903ce77dc1a03e3e161d4ca455f.svg",
+    "static/media/projects-Smart phone data_Monochromatic.svg": "/static/media/projects-Smart phone data_Monochromatic.0023c70d6ba13268486fba03be835418.svg",
+    "static/media/project-Data storage_Flatline.svg": "/static/media/project-Data storage_Flatline.c0606bc8278255a0085ca8839283c275.svg",
+    "static/media/projects-Web development _Two Color.svg": "/static/media/projects-Web development _Two Color.68a4781ee3f4a2c80d38ce4d1d96055a.svg",
+    "static/media/python-programming-language-icon.svg": "/static/media/python-programming-language-icon.af4b6d45f652824e97cdcd305b065579.svg",
+    "static/media/project-Data analytics _Monochromatic.svg": "/static/media/project-Data analytics _Monochromatic.7b46c4b9d4cdcdcb9a62cd6e789360bb.svg",
+    "static/media/mysql-icon.svg": "/static/media/mysql-icon.7618eff6c7997ea6f658486afebb98ce.svg",
+    "static/media/aws-icon.svg": "/static/media/aws-icon.667be7ef0343e66df45982cd936fac94.svg",
+    "static/media/react-js-icon.svg": "/static/media/react-js-icon.4ee8d0003d0f7f9ccea03ac4aa13fb99.svg",
+    "static/media/api-code-icon.svg": "/static/media/api-code-icon.03454cddb2ff0561eb5f79cea1e7d238.svg",
+    "static/media/css-icon.svg": "/static/media/css-icon.dbd31fe14ec796185689723739441965.svg",
+    "static/media/node-js-icon.svg": "/static/media/node-js-icon.10354602b1c0786e53037290e5ad547a.svg",
+    "static/media/javascript-programming-language-icon.svg": "/static/media/javascript-programming-language-icon.43e744a279a2adb2d549e76402f43593.svg",
+    "static/media/html-icon.svg": "/static/media/html-icon.115310285b7fd7194c7afea2c04ec0f7.svg",
+    "index.html": "/index.html",
+    "static/media/tailwind-css-icon.svg": "/static/media/tailwind-css-icon.d84a6f369e7170891c4a19587ccf78e1.svg",
+    "static/media/vue-js-icon.svg": "/static/media/vue-js-icon.9f537ef871539b63299dea9ec24182f4.svg",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.28bba352.js.map": "/static/js/main.28bba352.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.28bba352.js"
+  ]
+}
